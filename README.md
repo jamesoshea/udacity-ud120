@@ -1,4 +1,6 @@
 ud120-projects
 ==============
 
-Starter project code for students taking Udacity ud120
+Finished projects for the Udacity UD120 machine learning course.
+
+Datasets not included.
